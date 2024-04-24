@@ -1,1 +1,1 @@
-print "Wassup Buddy!! v5"
+rint "Wassup Buddy!! v5"
